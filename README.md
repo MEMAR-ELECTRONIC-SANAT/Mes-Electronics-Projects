@@ -1,5 +1,3 @@
-# MES-Electronics-Tutorials
-Persian and English Electronics Tutorials, Technical PDFs and Educational Resources
 
 # معمار الکترونیک صنعت
 ## MEMAR ELECTRONIC SANAT (MES)
@@ -9,68 +7,112 @@ Persian and English Electronics Tutorials, Technical PDFs and Educational Resour
 
 ---
 
-## 📚 آموزش‌ها و مستندات الکترونیک
-### Electronics Tutorials & Technical Documentation
+## 🔧 پروژه‌های الکترونیکی و طراحی PCB
+### Electronics Projects & PCB Design
 
-به مخزن آموزشی معمار الکترونیک صنعت خوش آمدید.
+به مخزن رسمی پروژه‌های معمار الکترونیک صنعت خوش آمدید.
 
-در این مخزن مجموعه‌ای از آموزش‌های تخصصی الکترونیک، مستندات فنی، بررسی قطعات الکترونیکی و راهنماهای طراحی مدارهای الکترونیکی به صورت فایل PDF منتشر می‌شود.
+در این مخزن مجموعه‌ای از پروژه‌های طراحی و توسعه مدارهای الکترونیکی، فایل‌های شماتیک و PCB، پروژه‌های Altium Designer و مستندات فنی منتشر می‌شود.
 
-هدف ما ارائه دانش فنی کاربردی برای مهندسان، طراحان و علاقه‌مندان الکترونیک است.
+هدف ما ارائه پروژه‌های کاربردی، راهکارهای مهندسی و طرح‌های قابل استفاده در توسعه و ساخت تجهیزات الکترونیکی و صنعتی است.
+
+Welcome to the official electronics projects repository of **Memar Electronic Sanat (MES)**.
+
+This repository contains electronic design projects, PCB layouts, Altium Designer files, embedded systems projects, and technical documentation.
+
+Our goal is to share practical engineering solutions and reliable electronic designs.
 
 ---
 
-## 📖 دسته‌بندی آموزش‌ها
+## 📂 دسته‌بندی پروژه‌ها | Project Categories
 
-### 01 - Electronic Components
-قطعات الکترونیکی
-- بررسی قطعات و کاربردهای آن‌ها
-- معرفی پارامترهای دیتاشیت
-- راهنمای انتخاب قطعات
+### 01. Altium Designer Projects
+پروژه‌های طراحی‌شده با آلتیوم دیزاینر
+- طراحی شماتیک (Schematic)
+- طراحی PCB
+- فایل‌های پروژه Altium
+- کتابخانه قطعات الکترونیکی
 
-### 02 - Circuit Protection
-حفاظت مدار
-- وریستور (MOV)
-- دیودهای TVS
-- حفاظت در برابر اضافه ولتاژ
-- حفاظت در برابر پالس‌های گذرا
+### 02. Embedded Systems
+سیستم‌های نهفته
+- طراحی سیستم‌های مبتنی بر میکروکنترلر
+- پروژه‌های کنترلی
+- ارتباطات الکترونیکی
+- برنامه‌نویسی و توسعه Firmware
 
-### 03 - PCB Design
-طراحی مدار چاپی
-- اصول طراحی PCB
-- طراحی شماتیک
-- کاهش نویز و تداخل الکترومغناطیسی
-
-### 04 - Microcontrollers
-میکروکنترلرها
-- آموزش میکروکنترلرها
-- طراحی مدارهای کنترلی
-- پروژه‌های Embedded Systems
-
-### 05 - Industrial Electronics
+### 03. Industrial Electronics
 الکترونیک صنعتی
-- طراحی تجهیزات صنعتی
-- سیستم‌های کنترل
-- راهکارهای کاهش نویز
+- تجهیزات کنترل صنعتی
+- مدارهای فرمان و قدرت
+- سیستم‌های اندازه‌گیری
+- مدارهای حفاظتی و کنترلی
+
+### 04. Power Electronics
+الکترونیک قدرت
+- منابع تغذیه
+- درایورهای الکترونیکی
+- کنترل بارهای الکتریکی
+- مدارهای سوئیچینگ
+
+### 05. Electronic Hardware
+سخت‌افزار الکترونیکی
+- طراحی و توسعه بردهای الکترونیکی
+- رابط‌های ارتباطی
+- مدارهای سنسورها
+- مدارهای اندازه‌گیری
 
 ---
 
-## 📥 Download Tutorials
-تمام آموزش‌ها و مستندات این مجموعه در قالب PDF منتشر می‌شوند.
+## 📦 فایل‌های قابل دریافت | Available Project Files
 
-برای دریافت هر آموزش، وارد پوشه مربوطه شده و فایل PDF را دانلود کنید.
+بسته به نوع پروژه، ممکن است فایل‌های زیر ارائه شوند:
+
+- Altium Designer Project Files
+- Schematic Files (.SchDoc)
+- PCB Layout Files (.PcbDoc)
+- Schematic Libraries (.SchLib)
+- PCB Libraries (.PcbLib)
+- Bill of Materials (BOM)
+- Gerber & Drill Files
+- PDF Documentation
+- Firmware & Source Code
+- Project ZIP Archives
 
 ---
 
-## 🛠 Software & Tools
+## 🛠 نرم‌افزارها و ابزارها | Software & Tools
+
 - Altium Designer
 - KiCad
 - MounRiver Studio
 - Embedded Development Tools
 
+نسخه نرم‌افزار و وابستگی‌های مورد نیاز هر پروژه در مستندات همان پروژه اعلام می‌شود.
+
 ---
 
-## 🏢 About Us
+## 📥 دانلود و استفاده از پروژه‌ها | Download & Usage
+
+برای دریافت پروژه:
+
+1. وارد پوشه پروژه مورد نظر شوید.
+2. توضیحات و فایل README اختصاصی آن پروژه را مطالعه کنید.
+3. فایل ZIP پروژه یا فایل‌های مورد نیاز را دانلود کنید.
+4. پروژه را با نرم‌افزار مربوطه باز کنید.
+
+توجه داشته باشید که ممکن است برخی پروژه‌ها برای اجرا یا ویرایش به کتابخانه‌ها و فایل‌های جانبی نیاز داشته باشند.
+
+---
+
+## 📌 مستندات و راهنماها | Documentation
+
+برای مطالعه آموزش‌های تخصصی و راهنماهای الکترونیک، از مخزن آموزش‌های MES بازدید کنید:
+
+[ MES Electronics Tutorials ](https://github.com/MEMAR-ELECTRONIC-SANAT/MES-Electronics-Tutorials)
+
+---
+
+## 🏢 درباره ما | About Us
 
 **MEMAR ELECTRONIC SANAT (MES)**
 
@@ -78,26 +120,31 @@ Persian and English Electronics Tutorials, Technical PDFs and Educational Resour
 
 همراه شما در مسیر طراحی و ساخت مدارهای مطمئن.
 
-فعالیت‌های ما:
+فعالیت‌های مجموعه:
+
 - طراحی و توسعه مدارهای الکترونیکی
 - طراحی شماتیک و PCB
 - طراحی و ساخت تجهیزات الکترونیکی
 - برنامه‌نویسی میکروکنترلرها
-- توسعه سیستم‌های Embedded و صنعتی
+- توسعه سیستم‌های Embedded
+- طراحی و توسعه تجهیزات صنعتی
 
 ---
 
-## 📌 Updates
+## 📌 به‌روزرسانی‌ها | Updates
 
-آموزش‌ها و مستندات فنی جدید به مرور به این مخزن اضافه خواهند شد.
+پروژه‌ها و مستندات جدید به مرور به این مخزن اضافه خواهند شد.
 
-برای دسترسی به مطالب جدید، این مخزن را دنبال کنید.
+برای اطلاع از پروژه‌های جدید، این مخزن را دنبال کنید (Watch).
 
 ---
 
 **MEMAR ELECTRONIC SANAT (MES)**
 
+*Your Partner in Designing and Building Reliable Electronic Circuits*
+
 Electronics Design | PCB Design | Embedded Systems | Industrial Electronics
+
 
 کانال تلگرام: https://t.me/Memar_Electronic
 
