@@ -1,6 +1,10 @@
 
 # معمار الکترونیک صنعت
 
+<p align="center">
+  <img src="Images/GitHub-Assets/MES-Hero-Banner.svg" width="100%" alt="MEMAR ELECTRONIC SANAT — MES">
+</p>
+
 ![MES Divider](Images/MES-Divider.svg)
 
 ## MEMAR ELECTRONIC SANAT (MES)
@@ -26,6 +30,11 @@ This repository contains electronic design projects, PCB layouts, Altium Designe
 Our goal is to share practical engineering solutions and reliable electronic designs.
 
 ---
+
+
+<p align="center">
+  <img src="Images/GitHub-Assets/MES-Section-Header.svg" width="100%" alt="Engineering, Design and Build">
+</p>
 
 ## 📂 دسته‌بندی پروژه‌ها | Project Categories
 
@@ -65,6 +74,11 @@ Our goal is to share practical engineering solutions and reliable electronic des
 - مدارهای اندازه‌گیری
 
 ---
+
+
+<p align="center">
+  <img src="Images/GitHub-Assets/MES-Project-Card.svg" width="100%" alt="MES project showcase">
+</p>
 
 ## 📦 فایل‌های قابل دریافت | Available Project Files
 
@@ -134,6 +148,11 @@ Our goal is to share practical engineering solutions and reliable electronic des
 
 ---
 
+
+<p align="center">
+  <img src="Images/GitHub-Assets/MES-Status-Strip.svg" width="100%" alt="MES Engineering Workspace">
+</p>
+
 ## 📌 به‌روزرسانی‌ها | Updates
 
 پروژه‌ها و مستندات جدید به مرور به این مخزن اضافه خواهند شد.
@@ -152,3 +171,8 @@ Electronics Design | PCB Design | Embedded Systems | Industrial Electronics
 کانال تلگرام: https://t.me/Memar_Electronic
 
 پیج اینستاگرام: https://www.instagram.com/Memar.Electronic
+
+
+<p align="center">
+  <img src="Images/GitHub-Assets/MES-Thank-You-Footer.svg" width="100%" alt="Thank you for visiting MES">
+</p>
