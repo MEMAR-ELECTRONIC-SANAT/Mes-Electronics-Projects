@@ -5,7 +5,9 @@
   <img src="Images/GitHub-Assets/MES-Hero-Banner.svg" width="100%" alt="MEMAR ELECTRONIC SANAT — MES">
 </p>
 
-![MES Divider](Images/MES-Divider.svg)
+<p align="center">
+  <img src="Images/GitHub-Assets/MES-Divider.svg" width="100%" alt="MES Divider">
+</p>
 
 ## MEMAR ELECTRONIC SANAT (MES)
 
