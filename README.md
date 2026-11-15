@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="Images/GitHub-Assets/MES_Animated_Logo_640x480.svg" width="360" alt="MES Animated Logo">
-</p>
 
+</p>
 
 # معمار الکترونیک صنعت
 
@@ -36,7 +35,6 @@ This repository contains electronic design projects, PCB layouts, Altium Designe
 Our goal is to share practical engineering solutions and reliable electronic designs.
 
 ---
-
 
 <p align="center">
   <img src="Images/GitHub-Assets/MES-Section-Header.svg" width="100%" alt="Engineering, Design and Build">
@@ -80,7 +78,6 @@ Our goal is to share practical engineering solutions and reliable electronic des
 - مدارهای اندازه‌گیری
 
 ---
-
 
 <p align="center">
   <img src="Images/GitHub-Assets/MES-Project-Card.svg" width="100%" alt="MES project showcase">
@@ -154,7 +151,6 @@ Our goal is to share practical engineering solutions and reliable electronic des
 
 ---
 
-
 <p align="center">
   <img src="Images/GitHub-Assets/MES-Status-Strip.svg" width="100%" alt="MES Engineering Workspace">
 </p>
@@ -173,12 +169,12 @@ Our goal is to share practical engineering solutions and reliable electronic des
 
 Electronics Design | PCB Design | Embedded Systems | Industrial Electronics
 
-
 کانال تلگرام: https://t.me/Memar_Electronic
 
 پیج اینستاگرام: https://www.instagram.com/Memar.Electronic
 
-
 <p align="center">
   <img src="Images/GitHub-Assets/MES-Thank-You-Footer.svg" width="100%" alt="Thank you for visiting MES">
 </p>
+
+![MES Animated Logo](Images/GitHub-Assets/MES_Animated_Logo_640x480.svg)
